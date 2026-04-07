@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+}
+.metric-label {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+.metric-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+.table td, .table th {
+    white-space: nowrap;
+}
+.text-break {
+    word-break: break-word;
+}
